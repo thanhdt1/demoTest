@@ -1,1 +1,2 @@
 Thanhdt: create text2.text
+thanh doan sưa dev text2.txt
